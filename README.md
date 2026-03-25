@@ -1,7 +1,7 @@
 <p align="center">
   <img src="githubbanner.png" alt="Portada de [Pablo Garza]" width="100%">
 </p>
-## Hi there 👋
+
 
 <!--
 **garza1691-rayas/garza1691-rayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
