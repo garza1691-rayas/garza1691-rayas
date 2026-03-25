@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="githubbanner.png" alt="Portada de [Pablo Garza]" width="100%">
+</p>
 ## Hi there 👋
 
 <!--
